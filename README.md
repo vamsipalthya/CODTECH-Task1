@@ -48,4 +48,6 @@ This project provides a foundation for building more advanced task management to
 
 ### Sample Pictures:
 
+![Screenshot 2024-11-10 230401](https://github.com/user-attachments/assets/d720b887-4198-46d6-b556-ffde83a7b87e)
+![Screenshot 2024-11-10 230250](https://github.com/user-attachments/assets/13e83756-e2f3-47ba-b102-5db48cc512ec)
 
